@@ -1,0 +1,14 @@
+{
+  "homepage": "https://minecraft.curseforge.com/projects/uptodatemod/files",
+  "1.7.10": {
+    "0.1.1": "Add granite, diorite, andesite\\nAdd doors made of acacia, birch, dark oak, jungle, and spruce\\nAdd fences made of acacia, birch, dark oak, jungle, and spruce\\nAdd fence gates made of acacia, birch, dark oak, jungle, and spruce\\nAdd trapdoors made of acacia, birch, dark oak, jungle, and spruce",
+    "0.2.0": "Add coarse dirt\\nAdd prismarine shard, prismarine crystal\\nAdd prismarine block, prismarine brick, dark prismarine",
+    "0.2.1": "Add buttons made of acacia, birch, dark oak, jungle, and spruce\\nAdd iron trapdoor\\nFix the problem about trapdoor texture rotation\\nTrapdoors no longer require attachment blocks",
+    "0.3.0": "Add boats made of acacia, birch, dark oak, jungle, and spruce\\nAdd en_US.lang file",
+    "0.3.1": "Translate the config file into English"
+   },
+  "promos": {
+    "1.7.10-latest": "0.3.1",
+    "1.7.10-recommended": "0.3.1"
+  }
+}
