@@ -4,6 +4,11 @@
       "version": "0.0.0",
       "url": "hogehoge.com/archive.zip",
       "description": "First release"
+    },
+    {
+      "version": "0.0.1",
+      "url": "https://media.forgecdn.net/files/2353/971/industrialcraft-2-2.2.827-experimental.jar",
+      "description": "テスト😁🐭🍊🌄🗻🐦🍆テスト"
     }
   ]
 }
